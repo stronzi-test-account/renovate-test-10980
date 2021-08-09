@@ -1,0 +1,23 @@
+{
+  "name": "renovate-test-10980",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stronzi-test-account/renovate-test-10980.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stronzi-test-account/renovate-test-10980/issues"
+  },
+  "homepage": "https://github.com/stronzi-test-account/renovate-test-10980#readme",
+  "description": "",
+  "dependencies": {
+    "@stroncium/procfs": "1.2.0"
+  }
+}
