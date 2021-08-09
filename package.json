@@ -18,6 +18,6 @@
   "homepage": "https://github.com/stronzi-test-account/renovate-test-10980#readme",
   "description": "",
   "dependencies": {
-    "@stroncium/procfs": "1.2.0"
+    "@stroncium/procfs": "1.2.1"
   }
 }
